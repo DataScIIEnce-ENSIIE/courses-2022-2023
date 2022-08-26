@@ -4,7 +4,7 @@ Courses to initiate students to Data Science through practical sessions:
 
 * Introduction: presentation of the association and fiels of Data Science and Machine Learning
 
-* Discovery of tools and references: Google Colab, Kaggle, TowardsDataScience and La Revue IA
+* Discovery of tools and references: Google Colab, Kaggle, TowardsDataScience...
 
 * Manipulation of data frames: Pandas, Numpy
 
@@ -12,7 +12,7 @@ Courses to initiate students to Data Science through practical sessions:
 
 * Web Scraping: BeautifulSoup, Selenium, Requests
 
-* Machine Learning Introduction: supervised/unsupervised learning, train/validation data, evaluation metrics...
+* Machine Learning Introduction: Scikit-Learn
 
 * Natural Langage Processing: NLTK, Gensim
 
